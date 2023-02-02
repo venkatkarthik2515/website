@@ -1,0 +1,130 @@
+.karthik{
+	height: 70px;
+	width:110px;
+}
+#go{
+	background-color: white;
+	color: black;
+	padding: 10px;
+	border-radius: 10px;
+	border:0px;
+	font-weight: bolder;
+}
+#go:hover{
+	color:#91091b;
+	border: 0px;
+}
+#color{
+	color: white;
+	background-color:#91091b;
+	border-radius: 10px;
+	padding: 5px;
+	border: 0px;
+	font-weight: bolder;
+}
+#color:hover{
+	background-color:white;
+	color:darkred;
+}
+.karthik1{
+	background-image:url("https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg");
+	background-size: cover;
+	height: 80vh;
+}
+.head{
+	color: white;
+}
+.para{
+	color: white;
+	font-size: 20px;
+}
+.mybutton{
+    color: white;
+    background-color:#91091b;
+    border-radius: 5px;
+    border:0px;
+    padding: 5px;
+}
+.bgcolor{
+	background-color: #edf0f5;
+	height: 62vh;
+}
+.head1{
+	font-size: 30px;
+	font-family: Arial,Helvetica,sans-serif;
+	font-weight: bolder;
+}
+.para1{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.layoutcard{
+	text-align: center;
+	background-color: white;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e5eaf4;
+	border-radius: 20px;
+}
+.image{
+	margin-top: 10px;
+	height:87px;
+	width:90px;
+}
+.cardhead{
+	font-size: 18px;
+	font-weight: bolder;
+}
+.cardpara{
+	font-size: 16px;
+}
+.offers{
+    font-style: italic;
+    font-weight: bold;
+}
+.bgcolor1{
+	background-color: white;
+}
+.head2{
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+}
+.layoutcard1{
+	border-radius: 15px;
+	margin-top: 10px;
+}
+.image{
+	border-radius: 15px;
+}
+.cardhead1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	font-size: 20px;
+	margin-top: 24px;
+}
+.link{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+	font-size: 20px;
+	color: #991b05;
+}
+.mybutton1{
+	color: white;
+	background-color: #d1112e;
+	border-radius: 10px;
+	border: 0px;
+	padding: 10px;
+	width: 110px;
+}
+.image3{
+	width:60px;
+	margin-top: 20px;
+}
+.image4{
+	margin-left: 40px;
+	width:60px;
+	margin-top: 20px;
+}
+.in:hover{
+	color: #ad0519;
+}
